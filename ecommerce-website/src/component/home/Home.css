@@ -1,0 +1,10 @@
+.home{
+    height: 85vh;
+    align-items: center;
+}
+
+.imghome{
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px #000000b8;
+}
+
